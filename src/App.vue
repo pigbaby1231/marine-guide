@@ -15,9 +15,6 @@ function submit() {
     <header class="sticky top-0 z-20 bg-gradient-to-r from-sky-900 via-cyan-800 to-teal-800 text-white shadow-lg">
       <div class="mx-auto flex max-w-6xl flex-wrap items-center gap-3 px-4 py-3">
         <RouterLink to="/" class="text-xl font-bold tracking-wide">🌊 海洋生物圖鑑</RouterLink>
-        <RouterLink to="/seaslug-intro" class="rounded-full bg-white/15 px-3 py-1 text-sm hover:bg-white/25">
-          認識海蛞蝓
-        </RouterLink>
         <form class="ml-auto flex w-full max-w-xs items-center sm:w-auto" @submit.prevent="submit">
           <input
             v-model="q"

@@ -59,9 +59,3 @@ Vue 3 · vue-router（hash 模式）· Tailwind CSS 4 · Fuse.js · Vite
 - 物種資料、照片：[iNaturalist](https://www.inaturalist.org/)（照片依各自標示之 CC 授權，版權屬原攝影者）
 - 海洋性判定：[WoRMS — World Register of Marine Species](https://www.marinespecies.org/)
 - 物種簡介：[Wikipedia](https://www.wikipedia.org/)（CC BY-SA）
-
-## 後續規畫
-
-- [ ] 測驗模式（看照片猜物種、相似種二選一）
-- [ ] 「我的圖鑑」收集進度（localStorage）
-- [ ] 特徵篩選器（顏色 × 類群，海蛞蝓優先）
