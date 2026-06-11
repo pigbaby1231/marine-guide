@@ -19,16 +19,19 @@ const SEASLUG_GROUPS = [
 
 // 其他類群：label、iNat 查詢名、要取的候選數量
 const OTHER_GROUPS = [
-  { label: "硬骨魚", query: "Actinopterygii", rank: "class", take: 150 },
-  { label: "軟骨魚（鯊・魟）", query: "Elasmobranchii", rank: "subclass", take: 20 },
-  { label: "十足目（蝦蟹）", query: "Decapoda", rank: "order", take: 60 },
-  { label: "口足目（蝦蛄）", query: "Stomatopoda", rank: "order", take: 10 },
-  { label: "刺絲胞動物（珊瑚・水母・海葵）", query: "Cnidaria", rank: "phylum", take: 50 },
-  { label: "棘皮動物", query: "Echinodermata", rank: "phylum", take: 40 },
-  { label: "頭足類（章魚・烏賊）", query: "Cephalopoda", rank: "class", take: 20 },
-  { label: "海洋哺乳類（鯨豚）", query: "Cetacea", rank: "infraorder", take: 12 },
+  { label: "硬骨魚", query: "Actinopterygii", rank: "class", take: 220 },
+  { label: "軟骨魚（鯊・魟）", query: "Elasmobranchii", rank: "subclass", take: 30 },
+  { label: "十足目（蝦蟹）", query: "Decapoda", rank: "order", take: 90 },
+  { label: "口足目（蝦蛄）", query: "Stomatopoda", rank: "order", take: 15 },
+  { label: "刺絲胞動物（珊瑚・水母・海葵）", query: "Cnidaria", rank: "phylum", take: 80 },
+  { label: "棘皮動物", query: "Echinodermata", rank: "phylum", take: 60 },
+  { label: "頭足類（章魚・烏賊）", query: "Cephalopoda", rank: "class", take: 30 },
+  { label: "海洋哺乳類（鯨豚）", query: "Cetacea", rank: "infraorder", take: 15 },
   { label: "海龜", query: "Cheloniidae", rank: "family", take: 5 },
 ];
+
+// 指定收錄：觀察數不到門檻、但潛水常見／使用者點名的物種
+const MUST_INCLUDE = [{ name: "Aeoliscus strigatus", group: "硬骨魚" }];
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -173,6 +176,30 @@ async function main() {
   }
   const othersFinal = [...byGroup.values()].flat();
   console.log(`過濾前 ${others.length} 種 → 海洋物種 ${marine.length} 種 → 依配額取 ${othersFinal.length} 種`);
+
+  // 指定收錄的物種（不受配額與觀察數門檻限制）
+  for (const m of MUST_INCLUDE) {
+    if (othersFinal.some((r) => r.scientificName === m.name)) continue;
+    const d = await getJSON(
+      `${INAT}/observations/species_counts?place_id=${TAIWAN_PLACE_ID}` +
+        `&taxon_name=${encodeURIComponent(m.name)}&verifiable=true&locale=zh-TW`
+    );
+    const r = d.results?.[0];
+    if (r) {
+      othersFinal.push({
+        scientificName: r.taxon.name,
+        commonName: r.taxon.preferred_common_name ?? "",
+        observations: r.count,
+        inatTaxonId: r.taxon.id,
+        photo: r.taxon.default_photo?.medium_url ?? "",
+        group: m.group,
+      });
+      console.log(`指定收錄：${m.name}（${r.taxon.preferred_common_name ?? "無中文名"}）`);
+    } else {
+      console.warn(`指定收錄查無資料：${m.name}`);
+    }
+    await sleep(1100);
+  }
 
   // ---------- 輸出 ----------
   const dataDir = new URL("../data/", import.meta.url);

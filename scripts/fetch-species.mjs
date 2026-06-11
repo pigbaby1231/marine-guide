@@ -20,7 +20,7 @@ const EXCLUDE = new Set([
   "Stiphodon percnopterygionus", // 黑鰭枝牙鰕虎（溪流）
 ]);
 
-const FULL_QUOTA = { 硬骨魚: 120 }; // 其他類群依候選檔配額，全收
+const FULL_QUOTA = { 硬骨魚: 220 }; // 其他類群依候選檔配額，全收
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -135,12 +135,20 @@ function selectSpecies(mode) {
     counts.set(r.group, n);
     return n <= quota;
   });
-  return { seaslugs: seaslugs.filter(ok).slice(0, 120), others: othersFull };
+  return { seaslugs: seaslugs.filter(ok), others: othersFull };
 }
 
 async function main() {
   const mode = process.argv.includes("--full") ? "full" : "pilot";
   const { seaslugs, others } = selectSpecies(mode);
+
+  // 既有資料的摘要直接重用，只對新物種查維基
+  let existing = new Map();
+  try {
+    const prev = JSON.parse(readFileSync(new URL("species.json", dataDir), "utf8"));
+    existing = new Map(prev.filter((s) => s.summary).map((s) => [s.id, s.summary]));
+    console.log(`重用既有摘要 ${existing.size} 筆`);
+  } catch {}
   const queue = [
     ...seaslugs.map((r) => ({ ...r, isSeaslug: true })),
     ...others.map((r) => ({ ...r, isSeaslug: false })),
@@ -170,11 +178,13 @@ async function main() {
       try {
         const taxon = taxaById.get(c.inatTaxonId);
         if (!taxon) throw new Error("iNat 查無此 taxon");
-        const wiki = await fetchWikiSummary(
-          taxon.commonName || c.commonName,
-          taxon.scientificName,
-          taxon.wikipediaUrl
-        );
+        const wiki =
+          existing.get(c.inatTaxonId) ??
+          (await fetchWikiSummary(
+            taxon.commonName || c.commonName,
+            taxon.scientificName,
+            taxon.wikipediaUrl
+          ));
         out.push({
           _idx: idx,
           id: taxon.inatTaxonId,
