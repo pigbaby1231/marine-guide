@@ -1,0 +1,3296 @@
+[
+  {
+    "scientificName": "Periophthalmus modestus",
+    "commonName": "彈塗魚",
+    "observations": 767,
+    "inatTaxonId": 354394,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/38767335/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Boleophthalmus pectinirostris",
+    "commonName": "大彈塗魚",
+    "observations": 522,
+    "inatTaxonId": 354395,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/50415801/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Sicyopterus japonicus",
+    "commonName": "日本禿頭鯊",
+    "observations": 440,
+    "inatTaxonId": 614907,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/50075413/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Diodon holocanthus",
+    "commonName": "六斑二齒魨",
+    "observations": 432,
+    "inatTaxonId": 49269,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/246231050/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Mugil cephalus",
+    "commonName": "鯔",
+    "observations": 251,
+    "inatTaxonId": 106222,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/11976021/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Terapon jarbua",
+    "commonName": "細鱗鯻  彎紋釘公 花身雞魚",
+    "observations": 245,
+    "inatTaxonId": 113902,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/357960818/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Stiphodon percnopterygionus",
+    "commonName": "黑鰭枝牙鰕虎",
+    "observations": 245,
+    "inatTaxonId": 188492,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/77064208/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Abudefduf vaigiensis",
+    "commonName": "條紋豆娘魚",
+    "observations": 239,
+    "inatTaxonId": 49403,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/323527412/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Monopterus albus",
+    "commonName": "黃鱔",
+    "observations": 239,
+    "inatTaxonId": 53511,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2799198/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Zanclus cornutus",
+    "commonName": "镰鱼",
+    "observations": 180,
+    "inatTaxonId": 83290,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/3080425/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon auripes",
+    "commonName": "耳帶蝴蝶魚",
+    "observations": 178,
+    "inatTaxonId": 97144,
+    "photo": "https://static.inaturalist.org/photos/29480784/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pomacanthus semicirculatus",
+    "commonName": "疊波蓋刺魚",
+    "observations": 174,
+    "inatTaxonId": 110019,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/5607934/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Amphiprion clarkii",
+    "commonName": "克氏雙鋸魚",
+    "observations": 169,
+    "inatTaxonId": 136345,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/19350008/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Istiblennius dussumieri",
+    "commonName": "杜氏蛙鳚",
+    "observations": 155,
+    "inatTaxonId": 446124,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/255564708/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Amphiprion frenatus",
+    "commonName": "白條雙鋸魚",
+    "observations": 149,
+    "inatTaxonId": 57740,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/70903366/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Echidna nebulosa",
+    "commonName": "星帶蝮鯙",
+    "observations": 144,
+    "inatTaxonId": 54441,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/84610411/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pterois volitans",
+    "commonName": "魔鬼簑鮋",
+    "observations": 143,
+    "inatTaxonId": 47280,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4675175/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Abudefduf sexfasciatus",
+    "commonName": "六帶豆娘魚 (石剎/石剎婆)",
+    "observations": 135,
+    "inatTaxonId": 49401,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/237987698/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Anguilla marmorata",
+    "commonName": "鱸鰻",
+    "observations": 135,
+    "inatTaxonId": 128424,
+    "photo": "https://static.inaturalist.org/photos/478401949/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pomacentrus coelestis",
+    "commonName": "霓虹雀鯛",
+    "observations": 133,
+    "inatTaxonId": 132371,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/230478520/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Istiblennius edentulus",
+    "commonName": "暗紋蛙鳚",
+    "observations": 128,
+    "inatTaxonId": 446125,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/490142407/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Oncorhynchus masou",
+    "commonName": "櫻鱒",
+    "observations": 125,
+    "inatTaxonId": 340557,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/144333374/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Lutjanus argentimaculatus",
+    "commonName": "銀紋笛鯛",
+    "observations": 124,
+    "inatTaxonId": 125802,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/42950611/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon speculum",
+    "commonName": "鏡斑蝴蝶魚",
+    "observations": 122,
+    "inatTaxonId": 97201,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/236392515/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Thalassoma hardwicke",
+    "commonName": "哈氏錦魚",
+    "observations": 119,
+    "inatTaxonId": 67963,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/234051394/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Acanthurus lineatus",
+    "commonName": "線紋刺尾鯛",
+    "observations": 117,
+    "inatTaxonId": 135283,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/106348771/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Fistularia commersonii",
+    "commonName": "棘烟管鱼",
+    "observations": 114,
+    "inatTaxonId": 57399,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/564563445/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Arothron hispidus",
+    "commonName": "紋腹叉鼻魨",
+    "observations": 114,
+    "inatTaxonId": 144017,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/487402233/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Abudefduf sordidus",
+    "commonName": "梭地豆娘魚",
+    "observations": 113,
+    "inatTaxonId": 123922,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/9792776/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon vagabundus",
+    "commonName": "飄浮蝴蝶魚",
+    "observations": 110,
+    "inatTaxonId": 48747,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/370078467/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Bathygobius fuscus",
+    "commonName": "深鰕虎魚",
+    "observations": 110,
+    "inatTaxonId": 95478,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/46792081/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Epinephelus quoyanus",
+    "commonName": "鮨科",
+    "observations": 110,
+    "inatTaxonId": 100130,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/307438675/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Dendrochirus zebra",
+    "commonName": "斑馬紋多臂簑鮋",
+    "observations": 108,
+    "inatTaxonId": 119389,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/10940462/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Thalassoma lutescens",
+    "commonName": "胸斑錦魚",
+    "observations": 102,
+    "inatTaxonId": 113981,
+    "photo": "https://static.inaturalist.org/photos/10638198/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Acanthurus triostegus",
+    "commonName": "綠刺尾鯛",
+    "observations": 100,
+    "inatTaxonId": 59931,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/237987787/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Abudefduf septemfasciatus",
+    "commonName": "七帶豆娘魚",
+    "observations": 100,
+    "inatTaxonId": 337753,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/191506104/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Takifugu alboplumbeus",
+    "commonName": "鉛點多紀魨 (鉛點東方魨)",
+    "observations": 100,
+    "inatTaxonId": 446552,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2360250/medium.JPG",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Dascyllus trimaculatus",
+    "commonName": "三斑圓雀鯛",
+    "observations": 98,
+    "inatTaxonId": 49303,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/207083638/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scatophagus argus",
+    "commonName": "金鼓",
+    "observations": 98,
+    "inatTaxonId": 112173,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/645142447/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Praealticus striatus",
+    "commonName": "吻紋矮冠鳚",
+    "observations": 96,
+    "inatTaxonId": 446416,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/358791436/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Sicyopterus lagocephalus",
+    "commonName": "兔頭瓢鰭鰕虎",
+    "observations": 95,
+    "inatTaxonId": 112548,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/84102268/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chrysiptera unimaculata",
+    "commonName": "無斑刻齒雀鯛（單斑刻齒雀鯛）",
+    "observations": 90,
+    "inatTaxonId": 338073,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/11908910/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Gomphosus varius",
+    "commonName": "雜色尖嘴魚",
+    "observations": 89,
+    "inatTaxonId": 52508,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/401424063/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Aulostomus chinensis",
+    "commonName": "中華管口魚",
+    "observations": 88,
+    "inatTaxonId": 47239,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/61754806/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Cephalopholis boenak",
+    "commonName": "橫紋九刺鮨",
+    "observations": 88,
+    "inatTaxonId": 96990,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/444026208/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Istigobius ornatus",
+    "commonName": "妝飾銜鰕虎魚",
+    "observations": 88,
+    "inatTaxonId": 368493,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/162598810/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Gymnothorax isingteena",
+    "commonName": "魔斑裸胸鯙",
+    "observations": 87,
+    "inatTaxonId": 361257,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/472740925/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Canthigaster valentini",
+    "commonName": "瓦氏尖鼻魨",
+    "observations": 86,
+    "inatTaxonId": 129549,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/32507619/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pseudanthias nobilis",
+    "commonName": "顯赫擬花鮨",
+    "observations": 86,
+    "inatTaxonId": 620689,
+    "photo": "https://static.inaturalist.org/photos/29406184/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Acanthurus dussumieri",
+    "commonName": "杜氏刺尾鯛",
+    "observations": 85,
+    "inatTaxonId": 121597,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/7930085/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Stiphodon atropurpureus",
+    "commonName": "菲律賓枝牙鰕虎",
+    "observations": 85,
+    "inatTaxonId": 349683,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/52306041/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Halichoeres hortulanus",
+    "commonName": "雲斑海豬魚",
+    "observations": 83,
+    "inatTaxonId": 102045,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/239664823/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Ostracion cubicum",
+    "commonName": "粒突箱魨 (金木瓜)",
+    "observations": 82,
+    "inatTaxonId": 49378,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/230133564/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon lunula",
+    "commonName": "月斑蝴蝶魚",
+    "observations": 80,
+    "inatTaxonId": 47316,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/251578086/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon auriga",
+    "commonName": "揚旛蝴蝶魚",
+    "observations": 78,
+    "inatTaxonId": 52457,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/14193990/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Arothron nigropunctatus",
+    "commonName": "黑斑叉鼻魨",
+    "observations": 78,
+    "inatTaxonId": 119385,
+    "photo": "https://static.inaturalist.org/photos/13138055/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Istiblennius lineatus",
+    "commonName": "線紋蛙鳚",
+    "observations": 78,
+    "inatTaxonId": 196701,
+    "photo": "https://static.inaturalist.org/photos/391075848/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Lutjanus russellii",
+    "commonName": "勒氏笛鯛",
+    "observations": 77,
+    "inatTaxonId": 84539,
+    "photo": "https://static.inaturalist.org/photos/230307664/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon kleinii",
+    "commonName": "克氏蝴蝶魚",
+    "observations": 77,
+    "inatTaxonId": 97167,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/233628218/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Gymnothorax eurostus",
+    "commonName": "黴身裸胸鯙",
+    "observations": 76,
+    "inatTaxonId": 121598,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/122892908/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Eleotris fusca",
+    "commonName": "褐塘鱧",
+    "observations": 74,
+    "inatTaxonId": 99792,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/341078986/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Microcanthus strigatus",
+    "commonName": "花并/斑馬蝶",
+    "observations": 74,
+    "inatTaxonId": 418135,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/72898174/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Megalops cyprinoides",
+    "commonName": "大海鰱 (大眼海鰱)",
+    "observations": 73,
+    "inatTaxonId": 62618,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/35463624/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scarus rubroviolaceus",
+    "commonName": "紅紫鸚哥魚（鈍頭鸚哥魚）",
+    "observations": 71,
+    "inatTaxonId": 83297,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/58070748/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Epinephelus coioides",
+    "commonName": "點帶石斑魚",
+    "observations": 71,
+    "inatTaxonId": 100089,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/187446351/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pterocaesio digramma",
+    "commonName": "雙帶鱗鰭烏尾鮗",
+    "observations": 71,
+    "inatTaxonId": 347375,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/15550803/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Mulloidichthys vanicolensis",
+    "commonName": "金帶擬鬚鯛",
+    "observations": 70,
+    "inatTaxonId": 122682,
+    "photo": "https://static.inaturalist.org/photos/8660435/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Prionurus scalprum",
+    "commonName": "鋸尾鯛",
+    "observations": 70,
+    "inatTaxonId": 188108,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/1683802/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chrysiptera glauca",
+    "commonName": "灰刻齒雀鯛",
+    "observations": 70,
+    "inatTaxonId": 204591,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/85525541/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Tylosurus crocodilus",
+    "commonName": "鱷形叉尾鶴鱵",
+    "observations": 69,
+    "inatTaxonId": 52460,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/70924450/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Labroides dimidiatus",
+    "commonName": "裂唇魚",
+    "observations": 69,
+    "inatTaxonId": 103901,
+    "photo": "https://static.inaturalist.org/photos/14296673/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Plectorhinchus vittatus",
+    "commonName": "條紋胡椒鯛",
+    "observations": 69,
+    "inatTaxonId": 120999,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/174462898/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Siganus fuscescens",
+    "commonName": "褐藍子魚",
+    "observations": 69,
+    "inatTaxonId": 132412,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/249915019/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Caranx sexfasciatus",
+    "commonName": "六帶鰺",
+    "observations": 68,
+    "inatTaxonId": 47228,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/1411110/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Thalassoma quinquevittatum",
+    "commonName": "五帶錦魚",
+    "observations": 68,
+    "inatTaxonId": 58467,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/239662353/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Lutjanus fulvus",
+    "commonName": "黃足笛鯛",
+    "observations": 67,
+    "inatTaxonId": 121459,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/342096316/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Parupeneus multifasciatus",
+    "commonName": "多帶海緋鯉",
+    "observations": 67,
+    "inatTaxonId": 131234,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/252802238/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon lunulatus",
+    "commonName": "弓月蝴蝶魚",
+    "observations": 66,
+    "inatTaxonId": 48743,
+    "photo": "https://static.inaturalist.org/photos/31277825/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Platax orbicularis",
+    "commonName": "圓眼燕魚",
+    "observations": 66,
+    "inatTaxonId": 69858,
+    "photo": "https://static.inaturalist.org/photos/346702538/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Kuhlia rupestris",
+    "commonName": "大口湯鯉",
+    "observations": 66,
+    "inatTaxonId": 187583,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/76844449/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Diodon hystrix",
+    "commonName": "密斑二齒魨",
+    "observations": 65,
+    "inatTaxonId": 52313,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/1554950/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Caranx ignobilis",
+    "commonName": "珍鰺",
+    "observations": 65,
+    "inatTaxonId": 153280,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/11911542/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chanos chanos",
+    "commonName": "虱目魚",
+    "observations": 64,
+    "inatTaxonId": 55533,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/124520494/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scartelaos histophorus",
+    "commonName": "青彈塗魚",
+    "observations": 64,
+    "inatTaxonId": 362471,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/666344380/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chromis notata",
+    "commonName": "尾斑光鰓雀鯛（斑鰭光鰓雀鯛）",
+    "observations": 62,
+    "inatTaxonId": 469793,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/520307861/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Platax teira",
+    "commonName": "尖翅燕魚",
+    "observations": 61,
+    "inatTaxonId": 69859,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/35639085/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Sicyopus zosterophorus",
+    "commonName": "環帶黃瓜鰕虎",
+    "observations": 60,
+    "inatTaxonId": 188398,
+    "photo": "https://static.inaturalist.org/photos/135606547/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Lutjanus fulviflamma",
+    "commonName": "火斑笛鯛",
+    "observations": 60,
+    "inatTaxonId": 204571,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/6028835/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Thalassoma lunare",
+    "commonName": "新月錦魚",
+    "observations": 59,
+    "inatTaxonId": 113980,
+    "photo": "https://static.inaturalist.org/photos/123362649/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Rhyacichthys aspro",
+    "commonName": "溪鱧",
+    "observations": 58,
+    "inatTaxonId": 188242,
+    "photo": "https://static.inaturalist.org/photos/93367459/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Dascyllus reticulatus",
+    "commonName": "網紋圓雀鯛",
+    "observations": 57,
+    "inatTaxonId": 179872,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/375866539/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Cephalopholis argus",
+    "commonName": "斑點九刺鮨",
+    "observations": 56,
+    "inatTaxonId": 52456,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/237394538/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pteragogus enneacanthus",
+    "commonName": "九棘長鰭鸚鯛",
+    "observations": 56,
+    "inatTaxonId": 111180,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/233180036/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pteropterus antennatus",
+    "commonName": "觸角簑鮋",
+    "observations": 56,
+    "inatTaxonId": 1571801,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/426826034/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon citrinellus",
+    "commonName": "胡麻斑蝴蝶魚",
+    "observations": 55,
+    "inatTaxonId": 97150,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/11975509/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Acanthopagrus pacificus",
+    "commonName": "太平洋棘鯛",
+    "observations": 55,
+    "inatTaxonId": 367430,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2404073/medium.JPG",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scarus forsteni",
+    "commonName": "福氏鸚哥魚",
+    "observations": 54,
+    "inatTaxonId": 112144,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/504019451/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Abudefduf bengalensis",
+    "commonName": "孟加拉豆娘魚",
+    "observations": 54,
+    "inatTaxonId": 337754,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/42831341/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Stephanolepis cirrhifer",
+    "commonName": "絲背冠鱗單棘魨",
+    "observations": 53,
+    "inatTaxonId": 418232,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/155855372/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scolopsis bilineata",
+    "commonName": "雙帶眶棘鱸",
+    "observations": 53,
+    "inatTaxonId": 471636,
+    "photo": "https://static.inaturalist.org/photos/27721175/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Coris gaimard",
+    "commonName": "蓋馬氏盔魚",
+    "observations": 52,
+    "inatTaxonId": 52323,
+    "photo": "https://static.inaturalist.org/photos/17626536/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pomadasys argenteus",
+    "commonName": "銀雞魚",
+    "observations": 52,
+    "inatTaxonId": 68795,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/482239851/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Cheilinus trilobatus",
+    "commonName": "三葉唇魚",
+    "observations": 52,
+    "inatTaxonId": 97311,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/5683217/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Ostracion immaculatum",
+    "commonName": "無斑箱魨",
+    "observations": 52,
+    "inatTaxonId": 418229,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2148751/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Monodactylus argenteus",
+    "commonName": "銀鱗鯧科",
+    "observations": 51,
+    "inatTaxonId": 51323,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/482036142/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Sufflamen chrysopterum",
+    "commonName": "金鰭鼓氣鱗魨",
+    "observations": 51,
+    "inatTaxonId": 52465,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/11105416/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Priacanthus hamrur",
+    "commonName": "寶石大眼鯛",
+    "observations": 51,
+    "inatTaxonId": 84116,
+    "photo": "https://static.inaturalist.org/photos/115340292/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Diodon liturosus",
+    "commonName": "紋二齒魨",
+    "observations": 51,
+    "inatTaxonId": 123268,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/299712878/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Bathygobius cocosensis",
+    "commonName": "椰子深鰕虎",
+    "observations": 51,
+    "inatTaxonId": 202065,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/443643447/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scorpaenopsis diabolus",
+    "commonName": "毒擬鮋 (石狗公)",
+    "observations": 50,
+    "inatTaxonId": 119419,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/249499513/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Parapercis millepunctata",
+    "commonName": "雪點擬鱸",
+    "observations": 50,
+    "inatTaxonId": 196575,
+    "photo": "https://static.inaturalist.org/photos/8094008/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Kyphosus vaigiensis",
+    "commonName": "低鰭舵魚",
+    "observations": 49,
+    "inatTaxonId": 210173,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/179510695/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pomadasys kaakan",
+    "commonName": "星雞魚",
+    "observations": 49,
+    "inatTaxonId": 368081,
+    "photo": "https://static.inaturalist.org/photos/273377366/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Zebrasoma velifer",
+    "commonName": "橫帶高鰭刺尾鯛",
+    "observations": 49,
+    "inatTaxonId": 424818,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/186667903/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Thalassoma amblycephalum",
+    "commonName": "鈍頭錦魚",
+    "observations": 49,
+    "inatTaxonId": 1561489,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/254620371/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pygoplites diacanthus",
+    "commonName": "雙棘甲尻魚",
+    "observations": 48,
+    "inatTaxonId": 111389,
+    "photo": "https://static.inaturalist.org/photos/115340876/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Diagramma pictum",
+    "commonName": "條紋胡椒鯛",
+    "observations": 48,
+    "inatTaxonId": 132396,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/14974635/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Grammistes sexlineatus",
+    "commonName": "六線黑鱸",
+    "observations": 48,
+    "inatTaxonId": 194619,
+    "photo": "https://static.inaturalist.org/photos/11821845/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Sphyraena barracuda",
+    "commonName": "巴拉金梭魚",
+    "observations": 46,
+    "inatTaxonId": 47251,
+    "photo": "https://static.inaturalist.org/photos/64376618/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Ostracion meleagris",
+    "commonName": "米點箱魨",
+    "observations": 46,
+    "inatTaxonId": 47527,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/151064522/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Acanthurus nigrofuscus",
+    "commonName": "褐斑刺尾鯛",
+    "observations": 46,
+    "inatTaxonId": 132410,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/11975500/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Acanthopagrus latus",
+    "commonName": "黃鰭棘鯛",
+    "observations": 46,
+    "inatTaxonId": 245762,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/134294127/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Acanthopagrus schlegelii",
+    "commonName": "黑棘鯛",
+    "observations": 45,
+    "inatTaxonId": 354333,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/347604518/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Plotosus lineatus",
+    "commonName": "線紋鰻鯰",
+    "observations": 44,
+    "inatTaxonId": 49210,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/487402396/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Plectroglyphidodon leucozona",
+    "commonName": "白帶固曲齒鯛",
+    "observations": 44,
+    "inatTaxonId": 57337,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/467123526/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Sebastiscus marmoratus",
+    "commonName": "褐菖鮋 (石狗公)",
+    "observations": 44,
+    "inatTaxonId": 362029,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/147015519/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Planiliza macrolepis",
+    "commonName": "大鱗龜鮻",
+    "observations": 44,
+    "inatTaxonId": 623957,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/131462359/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Paracirrhites forsteri",
+    "commonName": "福氏副䱵",
+    "observations": 43,
+    "inatTaxonId": 67658,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/503412920/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scarus schlegeli",
+    "commonName": "史氏鸚哥魚",
+    "observations": 43,
+    "inatTaxonId": 112164,
+    "photo": "https://static.inaturalist.org/photos/28951687/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Lethrinus nebulosus",
+    "commonName": "青嘴龍占魚",
+    "observations": 43,
+    "inatTaxonId": 132389,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/5333031/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Arothron stellatus",
+    "commonName": "星斑叉鼻魨",
+    "observations": 43,
+    "inatTaxonId": 196936,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/229406690/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Thalassoma trilobatum",
+    "commonName": "三葉錦魚",
+    "observations": 42,
+    "inatTaxonId": 113990,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/15558759/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chlorurus spilurus",
+    "commonName": "尾斑綠鸚哥魚（尾斑青鸚哥魚）",
+    "observations": 42,
+    "inatTaxonId": 187233,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/256035426/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scolopsis lineata",
+    "commonName": "線紋眶棘鱸",
+    "observations": 42,
+    "inatTaxonId": 201023,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/243645362/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Petroscirtes breviceps",
+    "commonName": "短頭跳岩魚尉",
+    "observations": 42,
+    "inatTaxonId": 318929,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2218342/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Scarus ghobban",
+    "commonName": "藍點鸚哥魚",
+    "observations": 41,
+    "inatTaxonId": 84175,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/183680244/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon melannotus",
+    "commonName": "黑背蝴蝶魚",
+    "observations": 41,
+    "inatTaxonId": 97174,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/234051408/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Heniochus acuminatus",
+    "commonName": "白吻雙帶立旗鯛",
+    "observations": 41,
+    "inatTaxonId": 102631,
+    "photo": "https://static.inaturalist.org/photos/317335632/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Parupeneus ciliatus",
+    "commonName": "短鬚海緋鯉",
+    "observations": 41,
+    "inatTaxonId": 123343,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/237980093/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Istigobius campbelli",
+    "commonName": "康培氏銜鰕虎",
+    "observations": 41,
+    "inatTaxonId": 418235,
+    "photo": "https://static.inaturalist.org/photos/53276333/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Cirrhitus pinnulatus",
+    "commonName": "翼䱵",
+    "observations": 40,
+    "inatTaxonId": 52478,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/162458493/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Chaetodon trifascialis",
+    "commonName": "巛紋蝴蝶魚",
+    "observations": 40,
+    "inatTaxonId": 97207,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/171100563/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Halichoeres trimaculatus",
+    "commonName": "三斑海豬魚",
+    "observations": 40,
+    "inatTaxonId": 102088,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/237394834/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Pteropterus radiatus",
+    "commonName": "輻紋簑鮋",
+    "observations": 40,
+    "inatTaxonId": 121659,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/3848251/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Gymnothorax pictus",
+    "commonName": "細點裸胸鯙",
+    "observations": 40,
+    "inatTaxonId": 123525,
+    "photo": "https://static.inaturalist.org/photos/55831928/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Leiognathus equula",
+    "commonName": "三角魚",
+    "observations": 40,
+    "inatTaxonId": 1316670,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/567121483/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Macropharyngodon meleagris",
+    "commonName": "珠斑大咽齒鯛",
+    "observations": 39,
+    "inatTaxonId": 81498,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/254501975/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Thalassoma jansenii",
+    "commonName": "詹氏錦魚",
+    "observations": 39,
+    "inatTaxonId": 113978,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/103094655/medium.jpeg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Ctenochaetus striatus",
+    "commonName": "漣紋櫛齒刺尾鯛",
+    "observations": 39,
+    "inatTaxonId": 180389,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/236610160/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Siganus guttatus",
+    "commonName": "星斑臭肚魚",
+    "observations": 39,
+    "inatTaxonId": 180402,
+    "photo": "https://static.inaturalist.org/photos/34715173/medium.jpg",
+    "group": "硬骨魚",
+    "take": 150
+  },
+  {
+    "scientificName": "Neotrygon orientale",
+    "commonName": "東方新魟",
+    "observations": 48,
+    "inatTaxonId": 786236,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/59014881/medium.jpeg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Sphyrna lewini",
+    "commonName": "路易氏雙髻鯊",
+    "observations": 16,
+    "inatTaxonId": 56764,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/86555463/medium.jpeg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Neotrygon varidens",
+    "commonName": "",
+    "observations": 15,
+    "inatTaxonId": 1266000,
+    "photo": "https://static.inaturalist.org/photos/92627147/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Negaprion acutidens",
+    "commonName": "尖齒檸檬鯊",
+    "observations": 12,
+    "inatTaxonId": 106649,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/436135774/medium.jpeg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Narcine lingula",
+    "commonName": "舌形雙鰭電鱝",
+    "observations": 11,
+    "inatTaxonId": 106610,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/160058764/medium.jpeg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Platyrhina tangi",
+    "commonName": "湯氏黃點鯆",
+    "observations": 11,
+    "inatTaxonId": 506729,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/387811653/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Carcharhinus limbatus",
+    "commonName": "黑邊鰭真鯊",
+    "observations": 10,
+    "inatTaxonId": 55529,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/247619680/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Scoliodon macrorhynchos",
+    "commonName": "大吻斜齒鮫",
+    "observations": 10,
+    "inatTaxonId": 607432,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/608579825/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Alopias pelagicus",
+    "commonName": "淺海狐鯊",
+    "observations": 9,
+    "inatTaxonId": 68050,
+    "photo": "https://static.inaturalist.org/photos/257429672/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Taeniurops meyeni",
+    "commonName": "邁氏擬條尾魟",
+    "observations": 8,
+    "inatTaxonId": 188852,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/162046559/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Chiloscyllium plagiosum",
+    "commonName": "條紋斑竹鯊",
+    "observations": 7,
+    "inatTaxonId": 97440,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/19049953/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Mustelus manazo",
+    "commonName": "星貂鯊",
+    "observations": 6,
+    "inatTaxonId": 106262,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/603550179/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Narcine maculata",
+    "commonName": "短唇雙鰭電鱝",
+    "observations": 6,
+    "inatTaxonId": 106611,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/467328819/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Hemitrygon bennettii",
+    "commonName": "黃魟",
+    "observations": 6,
+    "inatTaxonId": 623841,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/454855711/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Rhynchobatus immaculatus",
+    "commonName": "無斑龍紋鱝",
+    "observations": 4,
+    "inatTaxonId": 607513,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/467327875/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Triaenodon obesus",
+    "commonName": "白鰭鯊",
+    "observations": 3,
+    "inatTaxonId": 52314,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/29230134/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Isurus oxyrinchus",
+    "commonName": "尖吻鯖鯊",
+    "observations": 3,
+    "inatTaxonId": 69677,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/70551905/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Carcharhinus sorrah",
+    "commonName": "沙拉真鯊",
+    "observations": 3,
+    "inatTaxonId": 96767,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/306944950/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Mobula mobular",
+    "commonName": "日本蝠鱝",
+    "observations": 3,
+    "inatTaxonId": 105923,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/44702041/medium.png",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Mustelus griseus",
+    "commonName": "灰貂鯊",
+    "observations": 3,
+    "inatTaxonId": 106257,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/604748085/medium.jpg",
+    "group": "軟骨魚（鯊・魟）",
+    "take": 20
+  },
+  {
+    "scientificName": "Tubuca arcuata",
+    "commonName": "弧邊管招潮",
+    "observations": 2658,
+    "inatTaxonId": 555975,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/457161725/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Austruca lactea",
+    "commonName": "乳白南方招潮",
+    "observations": 1618,
+    "inatTaxonId": 555986,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/235591/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Coenobita rugosus",
+    "commonName": "皺紋陸寄居蟹",
+    "observations": 1198,
+    "inatTaxonId": 123362,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/78214/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Chiromantes haematocheir",
+    "commonName": "紅螯螳臂蟹",
+    "observations": 1182,
+    "inatTaxonId": 469185,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2509892/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Grapsus albolineatus",
+    "commonName": "白紋方蟹",
+    "observations": 1050,
+    "inatTaxonId": 354596,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/338328852/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Gelasimus borealis",
+    "commonName": "北方丑招潮",
+    "observations": 775,
+    "inatTaxonId": 739131,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/334447654/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Xeruca formosensis",
+    "commonName": "臺灣旱招潮",
+    "observations": 762,
+    "inatTaxonId": 739150,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/294644736/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Helice formosensis",
+    "commonName": "臺灣厚蟹",
+    "observations": 757,
+    "inatTaxonId": 359508,
+    "photo": "https://static.inaturalist.org/photos/182848950/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Macrophthalmus banzai",
+    "commonName": "萬歲大眼蟹",
+    "observations": 629,
+    "inatTaxonId": 628135,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/115872829/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Mictyris brevidactylus",
+    "commonName": "短趾和尚蟹",
+    "observations": 556,
+    "inatTaxonId": 351940,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/453703326/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Parasesarma insulare",
+    "commonName": "島嶼擬相蟹",
+    "observations": 512,
+    "inatTaxonId": 1476498,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/383328276/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Eriphia ferox",
+    "commonName": "兇猛酋婦蟹",
+    "observations": 510,
+    "inatTaxonId": 430444,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/104473467/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Orisarma intermedium",
+    "commonName": "中型東方相手蟹",
+    "observations": 497,
+    "inatTaxonId": 1110022,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/46157422/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Cardisoma carnifex",
+    "commonName": "兇狠圓軸蟹",
+    "observations": 468,
+    "inatTaxonId": 82585,
+    "photo": "https://static.inaturalist.org/photos/12181829/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Ocypode sinensis",
+    "commonName": "中華沙蟹",
+    "observations": 457,
+    "inatTaxonId": 496434,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/20399629/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Coenobita cavipes",
+    "commonName": "凹足陸寄居蟹",
+    "observations": 453,
+    "inatTaxonId": 355044,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/43994337/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Eriocheir japonica",
+    "commonName": "日本絨螯蟹",
+    "observations": 440,
+    "inatTaxonId": 418110,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/58328175/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Grapsus tenuicrustatus",
+    "commonName": "細紋方蟹",
+    "observations": 399,
+    "inatTaxonId": 61373,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/260144976/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Coenobita brevimanus",
+    "commonName": "短掌陸寄居蟹",
+    "observations": 395,
+    "inatTaxonId": 123359,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2848204/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Chasmagnathus convexus",
+    "commonName": "隆背張口蟹",
+    "observations": 391,
+    "inatTaxonId": 418108,
+    "photo": "https://static.inaturalist.org/photos/118089406/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Varuna litterata",
+    "commonName": "字紋弓蟹",
+    "observations": 379,
+    "inatTaxonId": 371160,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/43973019/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Parasesarma pictum",
+    "commonName": "斑點擬相手蟹",
+    "observations": 319,
+    "inatTaxonId": 496429,
+    "photo": "https://static.inaturalist.org/photos/294931781/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Parasesarma affine",
+    "commonName": "近親擬相蟹",
+    "observations": 309,
+    "inatTaxonId": 570208,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/69139701/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Ocypode stimpsoni",
+    "commonName": "斯氏沙蟹",
+    "observations": 301,
+    "inatTaxonId": 447580,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2820380/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Calcinus laevimanus",
+    "commonName": "光掌硬螯寄居蟹",
+    "observations": 272,
+    "inatTaxonId": 354882,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/272862221/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Thranita crenata",
+    "commonName": "鈍齒短槳蟹",
+    "observations": 248,
+    "inatTaxonId": 1090404,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/43974254/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Thranita danae",
+    "commonName": "少刺短槳蟹",
+    "observations": 219,
+    "inatTaxonId": 1090405,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/6037344/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Matuta victor",
+    "commonName": "頑強黎明蟹 (金錢蟹)",
+    "observations": 216,
+    "inatTaxonId": 484404,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/8265342/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Metasesarma aubryi",
+    "commonName": "奧氏後相手蟹",
+    "observations": 212,
+    "inatTaxonId": 623606,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/20399165/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Austruca perplexa",
+    "commonName": "糾結南方招潮",
+    "observations": 184,
+    "inatTaxonId": 1108898,
+    "photo": "https://static.inaturalist.org/photos/101439565/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Macrophthalmus abbreviatus",
+    "commonName": "短身大眼蟹",
+    "observations": 177,
+    "inatTaxonId": 447050,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/629458327/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Clibanarius virescens",
+    "commonName": "綠色細螯寄居蟹",
+    "observations": 160,
+    "inatTaxonId": 423834,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/165237414/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Lydia annulipes",
+    "commonName": "環紋金沙蟹",
+    "observations": 152,
+    "inatTaxonId": 524310,
+    "photo": "https://static.inaturalist.org/photos/362764321/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Pseudohelice subquadrata",
+    "commonName": "似方假厚蟹",
+    "observations": 138,
+    "inatTaxonId": 368726,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/14668463/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Paraleptuca splendida",
+    "commonName": "麗彩擬瘦招潮",
+    "observations": 131,
+    "inatTaxonId": 640625,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/74433787/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Metasesarma obesum",
+    "commonName": "肥胖後相蟹",
+    "observations": 130,
+    "inatTaxonId": 123375,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/107677455/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Stenopus hispidus",
+    "commonName": "蝟蝦（櫻花蝦）",
+    "observations": 129,
+    "inatTaxonId": 121669,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/277105988/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Gaetice depressus",
+    "commonName": "平背蜞",
+    "observations": 123,
+    "inatTaxonId": 426271,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/1464253/medium.JPG",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Portunus pelagicus",
+    "commonName": "遠海梭子蟹",
+    "observations": 122,
+    "inatTaxonId": 127703,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4856888/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Birgus latro",
+    "commonName": "椰子蟹",
+    "observations": 116,
+    "inatTaxonId": 51727,
+    "photo": "https://static.inaturalist.org/photos/48576066/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Eriphia sebana",
+    "commonName": "光手酋婦蟹",
+    "observations": 114,
+    "inatTaxonId": 128833,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/9220906/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Helicana doerjesi",
+    "commonName": "德氏仿厚蟹",
+    "observations": 111,
+    "inatTaxonId": 790880,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/319308758/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Percnon sinense",
+    "commonName": "中華盾牌蟹",
+    "observations": 111,
+    "inatTaxonId": 868901,
+    "photo": "https://static.inaturalist.org/photos/67024954/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Charybdis annulata",
+    "commonName": "環紋蟳",
+    "observations": 108,
+    "inatTaxonId": 524940,
+    "photo": "https://static.inaturalist.org/photos/246034556/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Metaplax elegans",
+    "commonName": "秀麗長方蟹",
+    "observations": 107,
+    "inatTaxonId": 603097,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/318713110/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Thranita prymna",
+    "commonName": "底棲長槳蟹",
+    "observations": 107,
+    "inatTaxonId": 1090412,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/6097387/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Leptarma liho",
+    "commonName": "里侯瘦相蟹",
+    "observations": 103,
+    "inatTaxonId": 1277022,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/151175442/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Gelasimus jocelynae",
+    "commonName": "賈瑟琳丑招潮",
+    "observations": 101,
+    "inatTaxonId": 739159,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/68234018/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Camposcia retusa",
+    "commonName": "鈍額曲毛蟹",
+    "observations": 99,
+    "inatTaxonId": 354589,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/264532026/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Pachygrapsus minutus",
+    "commonName": "小厚紋蟹",
+    "observations": 98,
+    "inatTaxonId": 295353,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/115688598/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Calcinus latens",
+    "commonName": "隱伏硬指寄居蟹",
+    "observations": 98,
+    "inatTaxonId": 343588,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/91149498/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Gelasimus vocans",
+    "commonName": "呼喚丑招潮",
+    "observations": 92,
+    "inatTaxonId": 555985,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/623826608/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Saron marmoratus",
+    "commonName": "乳斑掃帚蝦",
+    "observations": 91,
+    "inatTaxonId": 121722,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/317575495/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Tubuca dussumieri",
+    "commonName": "屠氏管招潮",
+    "observations": 85,
+    "inatTaxonId": 739143,
+    "photo": "https://static.inaturalist.org/photos/67023868/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Gelasimus tetragonon",
+    "commonName": "四角丑招潮",
+    "observations": 83,
+    "inatTaxonId": 555989,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/400586025/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Scylla serrata",
+    "commonName": "鋸緣青蟹 (鋸緣青蟳)",
+    "observations": 81,
+    "inatTaxonId": 340825,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/5883138/medium.jpeg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Coenobita violascens",
+    "commonName": "藍紫陸寄居蟹",
+    "observations": 81,
+    "inatTaxonId": 634867,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/505963937/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Pyrhila pisum",
+    "commonName": "豆形拳蟹",
+    "observations": 80,
+    "inatTaxonId": 468461,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2756504/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Etisus laevimanus",
+    "commonName": "光掌滑面蟹",
+    "observations": 80,
+    "inatTaxonId": 496420,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/629257109/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Leptodius affinis",
+    "commonName": "溝痕皺蟹",
+    "observations": 79,
+    "inatTaxonId": 1074268,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/68036522/medium.jpg",
+    "group": "十足目（蝦蟹）",
+    "take": 60
+  },
+  {
+    "scientificName": "Gonodactylus chiragra",
+    "commonName": "大指蝦蛄",
+    "observations": 72,
+    "inatTaxonId": 50293,
+    "photo": "https://static.inaturalist.org/photos/89571073/medium.jpeg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Odontodactylus scyllarus",
+    "commonName": "蟬形齒指蝦蛄",
+    "observations": 60,
+    "inatTaxonId": 119395,
+    "photo": "https://static.inaturalist.org/photos/30551110/medium.jpeg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Oratosquilla oratoria",
+    "commonName": "口蝦蛄 (瀨尿蝦)",
+    "observations": 9,
+    "inatTaxonId": 361771,
+    "photo": "https://static.inaturalist.org/photos/347965071/medium.jpg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Lysiosquilla sulcirostris",
+    "commonName": "溝額琴蝦蛄",
+    "observations": 7,
+    "inatTaxonId": 1277888,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/268705722/medium.jpg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Quollastria gonypetes",
+    "commonName": "",
+    "observations": 5,
+    "inatTaxonId": 1636201,
+    "photo": "",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Gonodactylus platysoma",
+    "commonName": "寬體指蝦蛄",
+    "observations": 4,
+    "inatTaxonId": 340818,
+    "photo": "https://static.inaturalist.org/photos/198841330/medium.jpg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Pseudosquilla ciliata",
+    "commonName": "多毛假蝦蛄",
+    "observations": 2,
+    "inatTaxonId": 49797,
+    "photo": "https://static.inaturalist.org/photos/122027487/medium.jpg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Lysiosquilla maculata",
+    "commonName": "十三齒琴蝦蛄",
+    "observations": 2,
+    "inatTaxonId": 199601,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/588961204/medium.jpg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Odontodactylus latirostris",
+    "commonName": "",
+    "observations": 2,
+    "inatTaxonId": 318010,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/348464502/medium.jpg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Squilla mantis",
+    "commonName": "",
+    "observations": 2,
+    "inatTaxonId": 635878,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/364038670/medium.jpg",
+    "group": "口足目（蝦蛄）",
+    "take": 10
+  },
+  {
+    "scientificName": "Mycedium elephantotus",
+    "commonName": "象鼻斜花珊瑚",
+    "observations": 158,
+    "inatTaxonId": 503538,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/84675743/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Physalia utriculus",
+    "commonName": "",
+    "observations": 135,
+    "inatTaxonId": 1631517,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/281343087/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Anthopleura buddemeieri",
+    "commonName": "",
+    "observations": 130,
+    "inatTaxonId": 712064,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/49446435/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Palythoa tuberculosa",
+    "commonName": "瘤菟葵",
+    "observations": 128,
+    "inatTaxonId": 195491,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/29241842/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Palythoa mutuki",
+    "commonName": "圓突沙葵",
+    "observations": 115,
+    "inatTaxonId": 195490,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/34705975/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Cassiopea andromeda",
+    "commonName": "倒立水母",
+    "observations": 112,
+    "inatTaxonId": 326834,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/42131290/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Entacmaea quadricolor",
+    "commonName": "奶嘴海葵",
+    "observations": 104,
+    "inatTaxonId": 179897,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/8228785/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Diadumene lineata",
+    "commonName": "縱條磯海葵",
+    "observations": 102,
+    "inatTaxonId": 81783,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/162510068/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Acropora solitaryensis",
+    "commonName": "單獨軸孔珊瑚",
+    "observations": 68,
+    "inatTaxonId": 93351,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/47510041/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Gyractis sesere",
+    "commonName": "",
+    "observations": 60,
+    "inatTaxonId": 667968,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/15570476/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Porpita porpita",
+    "commonName": "錢幣水母",
+    "observations": 51,
+    "inatTaxonId": 59683,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/145122392/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Hydnophora exesa",
+    "commonName": "大碓珊瑚",
+    "observations": 51,
+    "inatTaxonId": 102990,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4481090/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Pachyseris speciosa",
+    "commonName": "環形波紋珊瑚",
+    "observations": 49,
+    "inatTaxonId": 520313,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4481328/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Acromitus flagellatus",
+    "commonName": "端鞭水母",
+    "observations": 47,
+    "inatTaxonId": 502401,
+    "photo": "https://static.inaturalist.org/photos/240241212/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Pavona decussata",
+    "commonName": "板葉雀屏珊瑚",
+    "observations": 45,
+    "inatTaxonId": 108975,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/7511573/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Tubastraea coccinea",
+    "commonName": "圓管星珊瑚",
+    "observations": 41,
+    "inatTaxonId": 51802,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/163741735/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Pocillopora damicornis",
+    "commonName": "細枝鹿角珊瑚",
+    "observations": 41,
+    "inatTaxonId": 109862,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/65184323/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Galaxea fascicularis",
+    "commonName": "叢生棘杯珊瑚",
+    "observations": 40,
+    "inatTaxonId": 503683,
+    "photo": "https://static.inaturalist.org/photos/38707032/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Favites pentagona",
+    "commonName": "五邊角菊珊瑚",
+    "observations": 37,
+    "inatTaxonId": 503654,
+    "photo": "https://static.inaturalist.org/photos/33246214/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Melithaea ochracea",
+    "commonName": "橙扇柳珊瑚",
+    "observations": 36,
+    "inatTaxonId": 604330,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/672640468/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Anthopleura handi",
+    "commonName": "",
+    "observations": 35,
+    "inatTaxonId": 710400,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/56393046/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Pocillopora verrucosa",
+    "commonName": "疣鹿角珊瑚",
+    "observations": 34,
+    "inatTaxonId": 109875,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/6724862/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Millepora tenera",
+    "commonName": "板枝千孔珊瑚",
+    "observations": 33,
+    "inatTaxonId": 105891,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/79407534/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Stichodactyla tapetum",
+    "commonName": "絨氈列指海葵",
+    "observations": 31,
+    "inatTaxonId": 469544,
+    "photo": "https://static.inaturalist.org/photos/3894082/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Fimbriaphyllia ancora",
+    "commonName": "錨形紋葉珊瑚（腎形紋葉珊瑚）",
+    "observations": 31,
+    "inatTaxonId": 830680,
+    "photo": "https://static.inaturalist.org/photos/183835448/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Stichodactyla gigantea",
+    "commonName": "巨型列指海葵",
+    "observations": 30,
+    "inatTaxonId": 51239,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/21693847/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Anthopleura inornata",
+    "commonName": "樸素側花海葵",
+    "observations": 30,
+    "inatTaxonId": 469541,
+    "photo": "https://static.inaturalist.org/photos/231332346/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Oulastrea crispata",
+    "commonName": "黑星珊瑚",
+    "observations": 30,
+    "inatTaxonId": 503818,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4888953/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Zoanthus kuroshio",
+    "commonName": "黑潮花裙海葵",
+    "observations": 29,
+    "inatTaxonId": 702985,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/29027402/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Heliopora coerulea",
+    "commonName": "藍珊瑚",
+    "observations": 28,
+    "inatTaxonId": 102432,
+    "photo": "https://static.inaturalist.org/photos/30662274/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Leptoseris mycetoseroides",
+    "commonName": "網格柔紋珊瑚",
+    "observations": 27,
+    "inatTaxonId": 104353,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/15558801/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Zoanthus sansibaricus",
+    "commonName": "",
+    "observations": 27,
+    "inatTaxonId": 604865,
+    "photo": "https://static.inaturalist.org/photos/27391480/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Pennaria disticha",
+    "commonName": "分離羽螅",
+    "observations": 26,
+    "inatTaxonId": 195464,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/226672798/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Lithophyllon undulatum",
+    "commonName": "波形靈芝珊瑚",
+    "observations": 25,
+    "inatTaxonId": 104752,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/86682146/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Exaiptasia diaphana",
+    "commonName": "美麗固邊海葵",
+    "observations": 23,
+    "inatTaxonId": 785634,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/590748473/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Subergorgia suberosa",
+    "commonName": "軟木軟柳珊瑚",
+    "observations": 23,
+    "inatTaxonId": 858908,
+    "photo": "https://static.inaturalist.org/photos/30884993/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Cyanea nozakii",
+    "commonName": "白色霞水母",
+    "observations": 21,
+    "inatTaxonId": 471680,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/45039569/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Paragoniastrea variabilis",
+    "commonName": "",
+    "observations": 21,
+    "inatTaxonId": 1561580,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/78856144/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Velella velella",
+    "commonName": "",
+    "observations": 20,
+    "inatTaxonId": 59698,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/179473940/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Anthopleura dixoniana",
+    "commonName": "狄氏襟疣海葵",
+    "observations": 20,
+    "inatTaxonId": 706011,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/31919622/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Pocillopora grandis",
+    "commonName": "",
+    "observations": 19,
+    "inatTaxonId": 734705,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/72440582/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Anthopleura nigrescens",
+    "commonName": "黑側花海葵",
+    "observations": 18,
+    "inatTaxonId": 195555,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/5662775/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Millepora platyphylla",
+    "commonName": "板葉千孔珊瑚",
+    "observations": 17,
+    "inatTaxonId": 105888,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/90406726/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Isaurus tuberculatus",
+    "commonName": "突瘤長菟葵",
+    "observations": 17,
+    "inatTaxonId": 491471,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/200860850/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Anemonia mutabilis",
+    "commonName": "",
+    "observations": 17,
+    "inatTaxonId": 1184687,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/181408575/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Cladopsammia gracilis",
+    "commonName": "",
+    "observations": 16,
+    "inatTaxonId": 195511,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/134535263/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Dofleinia armata",
+    "commonName": "",
+    "observations": 16,
+    "inatTaxonId": 361259,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/351203466/medium.jpg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Leptoria phrygia",
+    "commonName": "密集迷紋珊瑚",
+    "observations": 16,
+    "inatTaxonId": 503571,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/152103375/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Pavona frondifera",
+    "commonName": "卷葉雀屏珊瑚",
+    "observations": 15,
+    "inatTaxonId": 108979,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/104392753/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Zoanthus gigantus",
+    "commonName": "",
+    "observations": 15,
+    "inatTaxonId": 702961,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/11296144/medium.jpeg",
+    "group": "刺絲胞動物（珊瑚・水母・海葵）",
+    "take": 50
+  },
+  {
+    "scientificName": "Ophiocoma scolopendrina",
+    "commonName": "蜈蚣櫛蛇尾",
+    "observations": 596,
+    "inatTaxonId": 255820,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/262286096/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Echinometra mathaei",
+    "commonName": "梅氏長海膽",
+    "observations": 470,
+    "inatTaxonId": 128719,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/605424/medium.JPG",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Holothuria leucospilota",
+    "commonName": "蕩皮參",
+    "observations": 392,
+    "inatTaxonId": 195758,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/59534946/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Diadema setosum",
+    "commonName": "刺冠海膽",
+    "observations": 240,
+    "inatTaxonId": 199812,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/77704758/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Tripneustes gratilla",
+    "commonName": "白棘三列海膽  (花膽 馬糞海膽)",
+    "observations": 205,
+    "inatTaxonId": 122127,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/106475573/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Holothuria atra",
+    "commonName": "黑海參",
+    "observations": 197,
+    "inatTaxonId": 55946,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/163566549/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Stomopneustes variolaris",
+    "commonName": "口鰓海膽",
+    "observations": 172,
+    "inatTaxonId": 349178,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/72396332/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Holothuria cinerascens",
+    "commonName": "黑刺星海參",
+    "observations": 130,
+    "inatTaxonId": 52473,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4649/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Echinothrix calamaris",
+    "commonName": "環刺棘海膽",
+    "observations": 126,
+    "inatTaxonId": 48757,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/936/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Linckia laevigata",
+    "commonName": "藍指海星",
+    "observations": 121,
+    "inatTaxonId": 57745,
+    "photo": "https://static.inaturalist.org/photos/225162251/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Synapta maculata",
+    "commonName": "斑錨參",
+    "observations": 119,
+    "inatTaxonId": 63514,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/71910889/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Stichopus horrens",
+    "commonName": "糙刺參",
+    "observations": 117,
+    "inatTaxonId": 195744,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2050948/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Actinopyga echinites",
+    "commonName": "棘輻肛參",
+    "observations": 116,
+    "inatTaxonId": 348159,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/231585715/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Echinaster luzonicus",
+    "commonName": "呂宋棘海星",
+    "observations": 113,
+    "inatTaxonId": 136699,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/18817932/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Heliocidaris crassispina",
+    "commonName": "紫海膽",
+    "observations": 86,
+    "inatTaxonId": 447500,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/426298893/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Diadema savignyi",
+    "commonName": "沙氏冠海膽",
+    "observations": 72,
+    "inatTaxonId": 348179,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/54264959/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Afrocucumis africana",
+    "commonName": "非洲異瓜參",
+    "observations": 64,
+    "inatTaxonId": 348135,
+    "photo": "https://static.inaturalist.org/photos/245238887/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Holothuria hilla",
+    "commonName": "黃疣海參",
+    "observations": 60,
+    "inatTaxonId": 195765,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/384304471/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Ophiomastix annulosa",
+    "commonName": "環棘鞭蛇尾",
+    "observations": 51,
+    "inatTaxonId": 255803,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/59001661/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Culcita novaeguineae",
+    "commonName": "麵包海星",
+    "observations": 47,
+    "inatTaxonId": 50406,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/38261246/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Echinothrix diadema",
+    "commonName": "冠刺棘海膽",
+    "observations": 47,
+    "inatTaxonId": 122164,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/72528/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Archaster typicus",
+    "commonName": "飛白楓海星",
+    "observations": 42,
+    "inatTaxonId": 255851,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/71765218/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Aquilonastra coronata",
+    "commonName": "",
+    "observations": 42,
+    "inatTaxonId": 348901,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/47697661/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Euapta godeffroyi",
+    "commonName": "真錨參",
+    "observations": 34,
+    "inatTaxonId": 50787,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/252507265/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Ophiarachna incrassata",
+    "commonName": "巨綠蛇尾",
+    "observations": 32,
+    "inatTaxonId": 340588,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/2149250/medium.JPG",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Coscinasterias acutispina",
+    "commonName": "尖棘篩海盤車",
+    "observations": 32,
+    "inatTaxonId": 714323,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/350973468/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Holothuria pervicax",
+    "commonName": "虎紋參",
+    "observations": 31,
+    "inatTaxonId": 52395,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/27598349/medium.jpeg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Holothuria impatiens",
+    "commonName": "醜海參",
+    "observations": 31,
+    "inatTaxonId": 195762,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/3338525/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Nepanthia belcheri",
+    "commonName": "刺腕蠍海燕",
+    "observations": 31,
+    "inatTaxonId": 348895,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/611137946/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Cercodemas anceps",
+    "commonName": "可疑翼手參",
+    "observations": 31,
+    "inatTaxonId": 349168,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4793706/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Echinostrephus aciculatus",
+    "commonName": "白尖紫叢海膽",
+    "observations": 30,
+    "inatTaxonId": 129028,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/122710/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Breviturma dentata",
+    "commonName": "齒短蛇尾",
+    "observations": 27,
+    "inatTaxonId": 1224557,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/115679373/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Toxopneustes pileolus",
+    "commonName": "喇叭毒刺海膽",
+    "observations": 24,
+    "inatTaxonId": 319375,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/70522275/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Polycheira rufescens",
+    "commonName": "紫輪參",
+    "observations": 24,
+    "inatTaxonId": 354090,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/149652810/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Amphipholis squamata",
+    "commonName": "蛇尾綱",
+    "observations": 22,
+    "inatTaxonId": 56690,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/158871985/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Pseudocolochirus violaceus",
+    "commonName": "海蘋果",
+    "observations": 21,
+    "inatTaxonId": 136415,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/91040885/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Cryptasterina pentagona",
+    "commonName": "",
+    "observations": 21,
+    "inatTaxonId": 348898,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/5260515/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Anthenea aspera",
+    "commonName": "糙五角海星",
+    "observations": 20,
+    "inatTaxonId": 50384,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/528444768/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Ophioplocus imbricatus",
+    "commonName": "迭鱗片蛇尾",
+    "observations": 18,
+    "inatTaxonId": 255855,
+    "photo": "https://static.inaturalist.org/photos/18919808/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Temnopleurus toreumaticus",
+    "commonName": "細雕刻肋海膽",
+    "observations": 18,
+    "inatTaxonId": 349169,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4856613/medium.jpg",
+    "group": "棘皮動物",
+    "take": 40
+  },
+  {
+    "scientificName": "Sepioteuthis lessoniana",
+    "commonName": "萊氏擬烏賊",
+    "observations": 147,
+    "inatTaxonId": 121187,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/115066463/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Octopus cyanea",
+    "commonName": "藍章",
+    "observations": 82,
+    "inatTaxonId": 49056,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/462969278/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Octopus sinensis",
+    "commonName": "普通八爪魚",
+    "observations": 66,
+    "inatTaxonId": 752300,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/140580129/medium.jpeg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Acanthosepion pharaonis",
+    "commonName": "虎斑烏賊",
+    "observations": 61,
+    "inatTaxonId": 1500642,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/130319105/medium.jpeg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Ascarosepion latimanus",
+    "commonName": "寬腕烏賊（白班烏賊）",
+    "observations": 41,
+    "inatTaxonId": 1500640,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/172259460/medium.jpeg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Argonauta argo",
+    "commonName": "太平洋船蛸",
+    "observations": 26,
+    "inatTaxonId": 253674,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/65093771/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Pinnoctopus luteus",
+    "commonName": "紅章",
+    "observations": 25,
+    "inatTaxonId": 1678343,
+    "photo": "https://static.inaturalist.org/photos/14060819/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Euprymna berryi",
+    "commonName": "目斗仔",
+    "observations": 11,
+    "inatTaxonId": 151324,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/340554286/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Argonauta hians",
+    "commonName": "闊船蛸",
+    "observations": 10,
+    "inatTaxonId": 292208,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/29425182/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Amphioctopus kagoshimensis",
+    "commonName": "鹿兒島蛸",
+    "observations": 10,
+    "inatTaxonId": 699445,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/500915937/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Amphioctopus aegina",
+    "commonName": "沙蛸",
+    "observations": 9,
+    "inatTaxonId": 543266,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/3555007/medium.jpeg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Ascarosepion tullbergi",
+    "commonName": "花烏賊(圖氏後烏賊)",
+    "observations": 8,
+    "inatTaxonId": 1500734,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/101413747/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Octopus oliveri",
+    "commonName": "",
+    "observations": 7,
+    "inatTaxonId": 393692,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/240242441/medium.jpeg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Watasenia scintillans",
+    "commonName": "螢魷",
+    "observations": 5,
+    "inatTaxonId": 47878,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/186706722/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Nautilus pompilius",
+    "commonName": "鸚鵡螺",
+    "observations": 5,
+    "inatTaxonId": 123467,
+    "photo": "https://static.inaturalist.org/photos/58051104/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Octopus laqueus",
+    "commonName": "",
+    "observations": 5,
+    "inatTaxonId": 699871,
+    "photo": "https://static.inaturalist.org/photos/253742733/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Acanthosepion esculentum",
+    "commonName": "",
+    "observations": 5,
+    "inatTaxonId": 1500718,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/562545254/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Idiosepius pygmaeus",
+    "commonName": "侏儒微鰭烏賊",
+    "observations": 4,
+    "inatTaxonId": 151339,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/341061910/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Hapalochlaena lunulata",
+    "commonName": "大藍環章魚",
+    "observations": 4,
+    "inatTaxonId": 199917,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/340386429/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Thaumoctopus mimicus",
+    "commonName": "擬態章魚",
+    "observations": 4,
+    "inatTaxonId": 319764,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/6298177/medium.jpg",
+    "group": "頭足類（章魚・烏賊）",
+    "take": 20
+  },
+  {
+    "scientificName": "Stenella longirostris",
+    "commonName": "長吻飛旋海豚",
+    "observations": 225,
+    "inatTaxonId": 41496,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/83099258/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Grampus griseus",
+    "commonName": "瑞氏海豚",
+    "observations": 45,
+    "inatTaxonId": 41541,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/142809664/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Stenella attenuata",
+    "commonName": "熱帶斑海豚",
+    "observations": 39,
+    "inatTaxonId": 41500,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/61633355/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Tursiops truncatus",
+    "commonName": "瓶鼻海豚",
+    "observations": 37,
+    "inatTaxonId": 41482,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/611231392/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Feresa attenuata",
+    "commonName": "小虎鯨",
+    "observations": 14,
+    "inatTaxonId": 41534,
+    "photo": "https://static.inaturalist.org/photos/533642368/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Delphinus delphis",
+    "commonName": "真海豚",
+    "observations": 12,
+    "inatTaxonId": 41526,
+    "photo": "https://static.inaturalist.org/photos/135085970/medium.jpeg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Lagenodelphis hosei",
+    "commonName": "弗氏海豚",
+    "observations": 10,
+    "inatTaxonId": 41523,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/435694706/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Sousa chinensis",
+    "commonName": "中華白海豚",
+    "observations": 9,
+    "inatTaxonId": 41488,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/75164828/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Pseudorca crassidens",
+    "commonName": "偽虎鯨",
+    "observations": 9,
+    "inatTaxonId": 41539,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/457666343/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Kogia sima",
+    "commonName": "侏儒抹香鯨",
+    "observations": 8,
+    "inatTaxonId": 41465,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/198282746/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Globicephala macrorhynchus",
+    "commonName": "短肢領航鯨",
+    "observations": 5,
+    "inatTaxonId": 41532,
+    "photo": "https://static.inaturalist.org/photos/172077737/medium.png",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Kogia breviceps",
+    "commonName": "小抹香鯨",
+    "observations": 3,
+    "inatTaxonId": 41464,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/198282116/medium.jpg",
+    "group": "海洋哺乳類（鯨豚）",
+    "take": 12
+  },
+  {
+    "scientificName": "Chelonia mydas",
+    "commonName": "綠海龜",
+    "observations": 596,
+    "inatTaxonId": 39659,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/675226735/medium.jpg",
+    "group": "海龜",
+    "take": 5
+  },
+  {
+    "scientificName": "Eretmochelys imbricata",
+    "commonName": "玳瑁",
+    "observations": 23,
+    "inatTaxonId": 39672,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/9696846/medium.jpg",
+    "group": "海龜",
+    "take": 5
+  },
+  {
+    "scientificName": "Caretta caretta",
+    "commonName": "赤蠵龜",
+    "observations": 2,
+    "inatTaxonId": 39665,
+    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/176772831/medium.jpeg",
+    "group": "海龜",
+    "take": 5
+  },
+  {
+    "scientificName": "Lepidochelys olivacea",
+    "commonName": "欖蠵龜",
+    "observations": 2,
+    "inatTaxonId": 39670,
+    "photo": "https://static.inaturalist.org/photos/154666409/medium.jpeg",
+    "group": "海龜",
+    "take": 5
+  }
+]

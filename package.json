@@ -1,0 +1,10 @@
+{
+  "name": "marine-guide",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "海洋生物圖鑑 — 以台灣海域常見物種為主，海蛞蝓深度收錄",
+  "scripts": {
+    "fetch:candidates": "node scripts/fetch-candidates.mjs"
+  }
+}
