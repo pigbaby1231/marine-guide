@@ -4,6 +4,9 @@ import SpeciesCard from "../components/SpeciesCard.vue";
 
 const seaslugCount = species.filter((s) => s.isSeaslug).length;
 const featured = groups.find((g) => g.name === "海蛞蝓")?.list.slice(0, 6) ?? [];
+
+// 類群封面：取觀察數最高且「有照片」的物種（榜首可能沒有 CC 授權照片）
+const cover = (g) => g.list.find((s) => s.photos.length)?.photos[0];
 </script>
 
 <template>
@@ -32,12 +35,13 @@ const featured = groups.find((g) => g.name === "海蛞蝓")?.list.slice(0, 6) ??
       >
         <div class="aspect-video overflow-hidden bg-slate-200">
           <img
-            v-if="g.list[0]?.photos[0]"
-            :src="g.list[0].photos[0].medium"
+            v-if="cover(g)"
+            :src="cover(g).medium"
             :alt="g.name"
             loading="lazy"
             class="h-full w-full object-cover"
           />
+          <div v-else class="flex h-full w-full items-center justify-center text-3xl">🦐</div>
         </div>
         <div class="p-2.5">
           <div class="text-sm font-semibold">{{ g.name }}</div>
