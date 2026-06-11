@@ -42,11 +42,13 @@ function pickAncestor(ancestors, rank) {
   return ancestors?.find((a) => a.rank === rank)?.name ?? "";
 }
 
-// 抓單一物種的 iNat 詳細資料
-async function fetchTaxon(inatTaxonId) {
-  const data = await getJSON(`${INAT}/taxa/${inatTaxonId}?locale=zh-TW`);
-  const t = data?.results?.[0];
-  if (!t) return null;
+// 批次抓 iNat 詳細資料（一次最多 30 個 taxon，避免逐筆請求被限流）
+async function fetchTaxaBatch(ids) {
+  const data = await getJSON(`${INAT}/taxa/${ids.join(",")}?locale=zh-TW&per_page=${ids.length}`);
+  return new Map((data?.results ?? []).map((t) => [t.id, parseTaxon(t)]));
+}
+
+function parseTaxon(t) {
   const photos = (t.taxon_photos ?? [])
     .filter((tp) => tp.photo?.license_code) // 只取 CC 授權
     .slice(0, 5)
@@ -90,16 +92,17 @@ async function fetchWikiSummary(commonName, scientificName, enWikipediaUrl) {
     }
     await sleep(120);
   }
-  if (enWikipediaUrl) {
-    const title = decodeURIComponent(enWikipediaUrl.split("/wiki/")[1] ?? "");
-    if (title) {
-      const d = await getJSON(
-        `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`,
-        { tolerate404: true }
-      );
-      if (d?.extract && d.type === "standard") {
-        return { lang: "en", text: d.extract, url: d.content_urls?.desktop?.page ?? "" };
-      }
+  // 英文維基的物種條目標題幾乎都是學名；iNat 帶 locale 時 wikipedia_url 常為 null，不能依賴
+  const enTitle = enWikipediaUrl
+    ? decodeURIComponent(enWikipediaUrl.split("/wiki/")[1] ?? "")
+    : scientificName;
+  if (enTitle) {
+    const d = await getJSON(
+      `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(enTitle)}`,
+      { tolerate404: true }
+    );
+    if (d?.extract && d.type === "standard") {
+      return { lang: "en", text: d.extract, url: d.content_urls?.desktop?.page ?? "" };
     }
   }
   return null;
@@ -144,40 +147,60 @@ async function main() {
   ];
   console.log(`模式：${mode}　共 ${queue.length} 種（海蛞蝓 ${seaslugs.length}／其他 ${others.length}）`);
 
+  // 第一階段：批次抓 iNat 資料（30 種一批）
+  const taxaById = new Map();
+  for (let i = 0; i < queue.length; i += 30) {
+    const ids = queue.slice(i, i + 30).map((c) => c.inatTaxonId);
+    const batch = await fetchTaxaBatch(ids);
+    batch.forEach((v, k) => taxaById.set(k, v));
+    process.stdout.write(`iNat 批次抓取 ${Math.min(i + 30, queue.length)}/${queue.length}\r`);
+    await sleep(1200);
+  }
+  console.log();
+
+  // 第二階段：補維基摘要（6 路並行）
   const out = [];
   const failures = [];
-  for (let i = 0; i < queue.length; i++) {
-    const c = queue[i];
-    try {
-      const taxon = await fetchTaxon(c.inatTaxonId);
-      if (!taxon) throw new Error("iNat 查無此 taxon");
-      await sleep(150);
-      const wiki = await fetchWikiSummary(
-        taxon.commonName || c.commonName,
-        taxon.scientificName,
-        taxon.wikipediaUrl
-      );
-      out.push({
-        id: taxon.inatTaxonId,
-        scientificName: taxon.scientificName,
-        commonName: taxon.commonName || c.commonName,
-        group: c.group,
-        isSeaslug: c.isSeaslug,
-        observationsTaiwan: c.observations,
-        taxonomy: taxon.taxonomy,
-        photos: taxon.photos,
-        summary: wiki,
-        links: {
-          inat: `https://www.inaturalist.org/taxa/${taxon.inatTaxonId}`,
-          wikipedia: wiki?.url ?? taxon.wikipediaUrl,
-        },
-      });
-    } catch (e) {
-      failures.push({ name: c.scientificName, error: e.message });
+  let done = 0;
+  let cursor = 0;
+  async function wikiWorker() {
+    while (cursor < queue.length) {
+      const idx = cursor++;
+      const c = queue[idx];
+      try {
+        const taxon = taxaById.get(c.inatTaxonId);
+        if (!taxon) throw new Error("iNat 查無此 taxon");
+        const wiki = await fetchWikiSummary(
+          taxon.commonName || c.commonName,
+          taxon.scientificName,
+          taxon.wikipediaUrl
+        );
+        out.push({
+          _idx: idx,
+          id: taxon.inatTaxonId,
+          scientificName: taxon.scientificName,
+          commonName: taxon.commonName || c.commonName,
+          group: c.group,
+          isSeaslug: c.isSeaslug,
+          observationsTaiwan: c.observations,
+          taxonomy: taxon.taxonomy,
+          photos: taxon.photos,
+          summary: wiki,
+          links: {
+            inat: `https://www.inaturalist.org/taxa/${taxon.inatTaxonId}`,
+            wikipedia: wiki?.url ?? taxon.wikipediaUrl,
+          },
+        });
+      } catch (e) {
+        failures.push({ name: c.scientificName, error: e.message });
+      }
+      done++;
+      process.stdout.write(`維基摘要 ${done}/${queue.length}（失敗 ${failures.length}）\r`);
     }
-    process.stdout.write(`進度 ${i + 1}/${queue.length}（失敗 ${failures.length}）\r`);
-    await sleep(950);
   }
+  await Promise.all(Array.from({ length: 6 }, wikiWorker));
+  out.sort((a, b) => a._idx - b._idx);
+  out.forEach((o) => delete o._idx);
   console.log();
 
   // 品質統計

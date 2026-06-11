@@ -22,9 +22,11 @@ function submit() {
           <input
             v-model="q"
             placeholder="搜尋中文名／學名…"
-            class="w-full rounded-l-full bg-white/90 px-4 py-1.5 text-sm text-slate-800 outline-none placeholder:text-slate-400"
+            class="w-full min-w-0 rounded-l-full bg-white/90 px-4 py-1.5 text-sm text-slate-800 outline-none placeholder:text-slate-400"
           />
-          <button class="rounded-r-full bg-amber-400 px-4 py-1.5 text-sm font-bold text-sky-950 hover:bg-amber-300">
+          <button
+            class="shrink-0 whitespace-nowrap rounded-r-full bg-amber-400 px-4 py-1.5 text-sm font-bold text-sky-950 hover:bg-amber-300"
+          >
             搜尋
           </button>
         </form>
