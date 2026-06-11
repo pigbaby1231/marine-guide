@@ -5,7 +5,12 @@
   "type": "module",
   "description": "海洋生物圖鑑 — 以台灣海域常見物種為主，海蛞蝓深度收錄",
   "scripts": {
-    "fetch:candidates": "node scripts/fetch-candidates.mjs"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "fetch:candidates": "node scripts/fetch-candidates.mjs",
+    "fetch:species": "node scripts/fetch-species.mjs --full",
+    "backfill": "node scripts/backfill-summaries.mjs"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.3.0",
