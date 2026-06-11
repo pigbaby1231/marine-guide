@@ -1,7 +1,8 @@
 import speciesRaw from "../../data/species.json";
 import seaslugTraits from "../../data/seaslug-traits.json";
 
-export const species = speciesRaw;
+// 沒有 CC 授權照片的物種不收錄（圖鑑沒圖就失去意義）
+export const species = speciesRaw.filter((s) => s.photos.length > 0);
 
 export const byId = new Map(species.map((s) => [String(s.id), s]));
 

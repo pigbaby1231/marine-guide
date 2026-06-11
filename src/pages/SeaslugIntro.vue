@@ -1,5 +1,8 @@
 <script setup>
 import { species } from "../lib/data.js";
+import { usePageTitle } from "../lib/title.js";
+
+usePageTitle(() => "認識海蛞蝓");
 
 // 每個類群挑台灣觀察數最高、有照片的物種當代表
 function representative(order) {

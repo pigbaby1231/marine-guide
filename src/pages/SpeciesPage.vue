@@ -2,10 +2,12 @@
 import { computed, ref, watch } from "vue";
 import { useRoute } from "vue-router";
 import { byId, seaslugInfo, similarSeaslugs, topGroup } from "../lib/data.js";
+import { usePageTitle } from "../lib/title.js";
 import SpeciesCard from "../components/SpeciesCard.vue";
 
 const route = useRoute();
 const s = computed(() => byId.get(String(route.params.id)));
+usePageTitle(() => (s.value ? s.value.commonName || s.value.scientificName : "找不到物種"));
 const info = computed(() => (s.value ? seaslugInfo(s.value) : null));
 const similar = computed(() => (s.value ? similarSeaslugs(s.value) : []));
 

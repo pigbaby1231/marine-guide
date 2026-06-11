@@ -2,10 +2,12 @@
 import { computed, ref, watch } from "vue";
 import { useRoute } from "vue-router";
 import { groups, seaslugOrders } from "../lib/data.js";
+import { usePageTitle } from "../lib/title.js";
 import SpeciesCard from "../components/SpeciesCard.vue";
 
 const route = useRoute();
 const groupName = computed(() => decodeURIComponent(route.params.group));
+usePageTitle(() => groupName.value);
 const group = computed(() => groups.find((g) => g.name === groupName.value));
 const isSeaslugGroup = computed(() => groupName.value === "海蛞蝓");
 

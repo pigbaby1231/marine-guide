@@ -1,6 +1,9 @@
 <script setup>
 import { groups, species } from "../lib/data.js";
+import { usePageTitle } from "../lib/title.js";
 import SpeciesCard from "../components/SpeciesCard.vue";
+
+usePageTitle(() => "");
 
 const seaslugCount = species.filter((s) => s.isSeaslug).length;
 const featured = groups.find((g) => g.name === "海蛞蝓")?.list.slice(0, 6) ?? [];

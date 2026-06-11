@@ -2,10 +2,12 @@
 import { computed } from "vue";
 import { useRoute } from "vue-router";
 import { searchSpecies } from "../lib/search.js";
+import { usePageTitle } from "../lib/title.js";
 import SpeciesCard from "../components/SpeciesCard.vue";
 
 const route = useRoute();
 const q = computed(() => (route.query.q ?? "").toString());
+usePageTitle(() => `搜尋「${q.value}」`);
 const results = computed(() => (q.value ? searchSpecies(q.value) : []));
 </script>
 
